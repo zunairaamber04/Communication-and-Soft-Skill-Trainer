@@ -9,4 +9,4 @@ This project stimulates a **Virtual Communication Lab**, helping users build sel
 3.Generate an overall **communication score** with detailed feedback by category.
 4.Provide **AI-driven suggestions** for improvements.
 5.Enable a **dashboard interface** to view progress, history, and comparative performance.
-6.Deliver an MVP within 4 weeks with real-time analysis and basic feedback.
+6.Deliver an MVP within 4 weeks with real-time analysis and basic feedback.ss
